@@ -1,0 +1,4 @@
+//___FILEHEADER___
+
+___VARIABLE_swiftType___ ___FILEBASENAMEASIDENTIFIER___ {
+}
